@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ember Court — a card duel</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <header id="topbar">
+    <div class="brand"><span class="brand-flame" aria-hidden="true"></span> EMBER COURT</div>
+    <div class="top-mid"><span id="round-badge" class="badge">Round 1</span><span id="wins-badge" class="badge" style="display:none"></span></div>
+    <div class="top-actions">
+      <button id="sound-button" type="button">Sound: on</button>
+      <button id="help-button" type="button">How to play</button>
+      <button id="restart-button" type="button">Restart</button>
+    </div>
+  </header>
+
+  <section id="rival-row" aria-label="Rival">
+    <div id="rival-panel" class="panel"></div>
+    <div id="rival-hand" class="rival-hand" aria-label="Rival's hand"></div>
+  </section>
+
+  <section id="mid-row">
+    <div id="stage" aria-label="Sigils"></div>
+    <div id="mid-side">
+      <div id="log" aria-label="Match log"></div>
+      <button id="end-turn" type="button">End Turn <span class="key-hint">Space</span></button>
+      <div id="deck-counts"></div>
+    </div>
+  </section>
+
+  <section id="player-row" aria-label="You">
+    <div id="player-panel" class="panel"></div>
+    <div id="player-hand" class="player-hand" aria-label="Your hand"></div>
+  </section>
+
+  <div id="overlay" class="hidden"></div>
+  <div id="fx" aria-hidden="true"></div>
+  <p id="status" class="sr-only" aria-live="polite"></p>
+</div>
+<script type="module" src="src/main.js"></script>
+</body>
+</html>
