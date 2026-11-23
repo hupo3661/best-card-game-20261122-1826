@@ -1,8 +1,8 @@
 # ember-court-duel
 
 [![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
-[![rank](https://make.fun/badge/best-card-game-20261122-1826/hupo3661/ember-court-duel/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
-[![reward](https://make.fun/badge/best-card-game-20261122-1826/hupo3661/ember-court-duel/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/hupo3661/best-card-game-20261122-1826/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/hupo3661/best-card-game-20261122-1826/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
 
 **Ember Court** — a duel of cards, sigils and nerve. You are the Ember Warden, seated across the table from the Ashen Magistrate. Thirty life each, thirty-card decks, first to 0 loses.
 
